@@ -1,1 +1,1 @@
-This is a game made with Pygame wherein you must care for a pigeon. I'm having a lot of fun making this and it's currently a work in progress.
+This is a game made with Pygame wherein you must care for a pigeon. I'm having a lot of fun making this and it's currently a work in progress. To run the game, run "pigeongamecode.py" or "mainloop.py" (this isn't as far on as "pigeongamecode.py").
